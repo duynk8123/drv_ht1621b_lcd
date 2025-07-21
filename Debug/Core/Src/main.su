@@ -1,0 +1,11 @@
+../Core/Src/main.c:131:5:main	8	static
+../Core/Src/main.c:222:6:SystemClock_Config	72	static
+../Core/Src/main.c:259:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:283:6:SendBit_1621	24	static
+../Core/Src/main.c:303:6:SendCmd_1621	16	static
+../Core/Src/main.c:311:6:Write_1621	16	static
+../Core/Src/main.c:324:6:HT1621_all_off	24	static
+../Core/Src/main.c:332:6:HT1621_all_on	24	static
+../Core/Src/main.c:340:6:WriteMulti_1621	24	static
+../Core/Src/main.c:362:6:Init_1621	8	static
+../Core/Src/main.c:377:6:Error_Handler	4	static,ignoring_inline_asm
